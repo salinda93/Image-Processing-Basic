@@ -1,0 +1,10 @@
+D:\Visual Studio Workspace\FirstProgram\FirstProgram\obj\x86\Debug\FirstProgram.Form1.resources
+D:\Visual Studio Workspace\FirstProgram\FirstProgram\obj\x86\Debug\FirstProgram.Properties.Resources.resources
+D:\Visual Studio Workspace\FirstProgram\FirstProgram\obj\x86\Debug\FirstProgram.csproj.GenerateResource.Cache
+D:\Visual Studio Workspace\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe
+D:\Visual Studio Workspace\FirstProgram\FirstProgram\bin\Debug\FirstProgram.pdb
+D:\Visual Studio Workspace\FirstProgram\FirstProgram\bin\Debug\OpenCvSharp.dll
+D:\Visual Studio Workspace\FirstProgram\FirstProgram\obj\x86\Debug\FirstProgram.exe
+D:\Visual Studio Workspace\FirstProgram\FirstProgram\obj\x86\Debug\FirstProgram.pdb
+D:\Visual Studio Workspace\FirstProgram\FirstProgram\obj\x86\Debug\FirstProgram.csprojAssemblyReference.cache
+D:\Visual Studio Workspace\FirstProgram\FirstProgram\obj\x86\Debug\FirstProgram.csproj.CopyComplete
